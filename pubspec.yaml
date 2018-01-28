@@ -1,6 +1,6 @@
 name: community_material_icon
 description: A community material design icon
-version: 0.1.1
+version: 0.1.2
 author: rio permana <rio.prmn@gmail.com>
 homepage: https://github.com/ripsware/community_material_icon
 
@@ -12,4 +12,4 @@ flutter:
   fonts:
     - family: MaterialDesignIconFont
       fonts:
-        - asset: packages/fonts/mdi/materialdesignicons-webfont.ttf
+        - asset: packages/community_material_icon/fonts/materialdesignicons-webfont.ttf
