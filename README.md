@@ -7,7 +7,7 @@ A [community material design icon](https://materialdesignicons.com) as set of Fl
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  community_material_icon: 0.1.0
+  community_material_icon: 0.1.1
 ```
 
 ## Usage
