@@ -12,4 +12,4 @@ flutter:
   fonts:
     - family: MaterialDesignIconFont
       fonts:
-        - asset: assets/fonts/mdi/materialdesignicons-webfont.ttf
+        - asset: packages/fonts/mdi/materialdesignicons-webfont.ttf
