@@ -4,6 +4,9 @@ version: 0.1.3
 author: rio permana <rio.prmn@gmail.com>
 homepage: https://github.com/ripsware/community_material_icon
 
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
