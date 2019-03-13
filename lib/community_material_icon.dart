@@ -7,9 +7,29 @@ class CommunityMaterialIcons{
 
   static const IconData access_point_network = const IconData(0xF003, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData access_point_network_off = const IconData(0xFBBD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account = const IconData(0xF004, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_alert = const IconData(0xF005, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_alert_outline = const IconData(0xFB2C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_arrow_left = const IconData(0xFB2D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_arrow_left_outline = const IconData(0xFB2E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_arrow_right = const IconData(0xFB2F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_arrow_right_outline = const IconData(0xFB30, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_badge = const IconData(0xFD83, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_badge_alert = const IconData(0xFD84, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_badge_alert_outline = const IconData(0xFD85, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_badge_outline = const IconData(0xFD86, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_box = const IconData(0xF006, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -19,13 +39,23 @@ class CommunityMaterialIcons{
 
   static const IconData account_card_details = const IconData(0xF5D2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_card_details_outline = const IconData(0xFD87, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account_check = const IconData(0xF008, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_check_outline = const IconData(0xFBBE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_child = const IconData(0xFA88, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_child_circle = const IconData(0xFA89, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_circle = const IconData(0xF009, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_circle_outline = const IconData(0xFB31, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_clock = const IconData(0xFB32, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_clock_outline = const IconData(0xFB33, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_convert = const IconData(0xF00A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -35,11 +65,15 @@ class CommunityMaterialIcons{
 
   static const IconData account_group = const IconData(0xF848, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_group_outline = const IconData(0xFB34, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account_heart = const IconData(0xF898, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_heart_outline = const IconData(0xFBBF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_key = const IconData(0xF00B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData account_location = const IconData(0xF00C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData account_key_outline = const IconData(0xFBC0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_minus = const IconData(0xF00D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -51,6 +85,8 @@ class CommunityMaterialIcons{
 
   static const IconData account_multiple_minus = const IconData(0xF5D3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_multiple_minus_outline = const IconData(0xFBC1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account_multiple_outline = const IconData(0xF00F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_multiple_plus = const IconData(0xF010, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -59,13 +95,21 @@ class CommunityMaterialIcons{
 
   static const IconData account_network = const IconData(0xF011, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_network_outline = const IconData(0xFBC2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account_off = const IconData(0xF012, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_off_outline = const IconData(0xFBC3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_outline = const IconData(0xF013, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_plus = const IconData(0xF014, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_plus_outline = const IconData(0xF800, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_question = const IconData(0xFB35, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData account_question_outline = const IconData(0xFB36, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_remove = const IconData(0xF015, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -79,19 +123,33 @@ class CommunityMaterialIcons{
 
   static const IconData account_star = const IconData(0xF017, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_star_outline = const IconData(0xFBC4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData account_supervisor = const IconData(0xFA8A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_supervisor_circle = const IconData(0xFA8B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData account_switch = const IconData(0xF019, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData account_tie = const IconData(0xFCBF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData accusoft = const IconData(0xF849, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData adchoices = const IconData(0xFD1E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData adjust = const IconData(0xF01A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData adobe = const IconData(0xF935, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData air_conditioner = const IconData(0xF01B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData air_filter = const IconData(0xFD1F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData air_horn = const IconData(0xFD88, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData air_purifier = const IconData(0xFD20, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData airbag = const IconData(0xFBC5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData airballoon = const IconData(0xF01C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -115,6 +173,8 @@ class CommunityMaterialIcons{
 
   static const IconData alarm_light = const IconData(0xF78E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData alarm_light_outline = const IconData(0xFBC6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData alarm_multiple = const IconData(0xF022, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alarm_off = const IconData(0xF023, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -129,15 +189,23 @@ class CommunityMaterialIcons{
 
   static const IconData alert_box = const IconData(0xF027, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData alert_box_outline = const IconData(0xFCC0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData alert_circle = const IconData(0xF028, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alert_circle_outline = const IconData(0xF5D6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alert_decagram = const IconData(0xF6BC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData alert_decagram_outline = const IconData(0xFCC1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData alert_octagon = const IconData(0xF029, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData alert_octagon_outline = const IconData(0xFCC2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData alert_octagram = const IconData(0xF766, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alert_octagram_outline = const IconData(0xFCC3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alert_outline = const IconData(0xF02A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -147,109 +215,265 @@ class CommunityMaterialIcons{
 
   static const IconData alpha = const IconData(0xF02B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_a = const IconData(0xF41, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_a = const IconData(0x0041, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_a_box = const IconData(0xFAED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_b = const IconData(0xF42, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_a_box_outline = const IconData(0xFBC7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_a_circle = const IconData(0xFBC8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_a_circle_outline = const IconData(0xFBC9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_b = const IconData(0x0042, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_b_box = const IconData(0xFAEE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_c = const IconData(0xF43, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_b_box_outline = const IconData(0xFBCA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_b_circle = const IconData(0xFBCB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_b_circle_outline = const IconData(0xFBCC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_c = const IconData(0x0043, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_c_box = const IconData(0xFAEF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_d = const IconData(0xF44, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_c_box_outline = const IconData(0xFBCD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_c_circle = const IconData(0xFBCE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_c_circle_outline = const IconData(0xFBCF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_d = const IconData(0x0044, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_d_box = const IconData(0xFAF0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_e = const IconData(0xF45, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_d_box_outline = const IconData(0xFBD0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_d_circle = const IconData(0xFBD1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_d_circle_outline = const IconData(0xFBD2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_e = const IconData(0x0045, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_e_box = const IconData(0xFAF1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_f = const IconData(0xF46, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_e_box_outline = const IconData(0xFBD3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_e_circle = const IconData(0xFBD4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_e_circle_outline = const IconData(0xFBD5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_f = const IconData(0x0046, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_f_box = const IconData(0xFAF2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_g = const IconData(0xF47, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_f_box_outline = const IconData(0xFBD6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_f_circle = const IconData(0xFBD7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_f_circle_outline = const IconData(0xFBD8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_g = const IconData(0x0047, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_g_box = const IconData(0xFAF3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_h = const IconData(0xF48, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_g_box_outline = const IconData(0xFBD9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_g_circle = const IconData(0xFBDA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_g_circle_outline = const IconData(0xFBDB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_h = const IconData(0x0048, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_h_box = const IconData(0xFAF4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_i = const IconData(0xF49, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_h_box_outline = const IconData(0xFBDC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_h_circle = const IconData(0xFBDD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_h_circle_outline = const IconData(0xFBDE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_i = const IconData(0x0049, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_i_box = const IconData(0xFAF5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_j = const IconData(0xF4A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_i_box_outline = const IconData(0xFBDF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_i_circle = const IconData(0xFBE0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_i_circle_outline = const IconData(0xFBE1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_j = const IconData(0x004A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_j_box = const IconData(0xFAF6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_k = const IconData(0xF4B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_j_box_outline = const IconData(0xFBE2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_j_circle = const IconData(0xFBE3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_j_circle_outline = const IconData(0xFBE4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_k = const IconData(0x004B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_k_box = const IconData(0xFAF7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_l = const IconData(0xF4C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_k_box_outline = const IconData(0xFBE5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_k_circle = const IconData(0xFBE6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_k_circle_outline = const IconData(0xFBE7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_l = const IconData(0x004C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_l_box = const IconData(0xFAF8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_m = const IconData(0xF4D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_l_box_outline = const IconData(0xFBE8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_l_circle = const IconData(0xFBE9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_l_circle_outline = const IconData(0xFBEA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_m = const IconData(0x004D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_m_box = const IconData(0xFAF9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_n = const IconData(0xF4E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_m_box_outline = const IconData(0xFBEB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_m_circle = const IconData(0xFBEC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_m_circle_outline = const IconData(0xFBED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_n = const IconData(0x004E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_n_box = const IconData(0xFAFA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_o = const IconData(0xF4F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_n_box_outline = const IconData(0xFBEE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_n_circle = const IconData(0xFBEF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_n_circle_outline = const IconData(0xFBF0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_o = const IconData(0x004F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_o_box = const IconData(0xFAFB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_p = const IconData(0xF50, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_o_box_outline = const IconData(0xFBF1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_o_circle = const IconData(0xFBF2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_o_circle_outline = const IconData(0xFBF3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_p = const IconData(0x0050, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_p_box = const IconData(0xFAFC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_q = const IconData(0xF51, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_p_box_outline = const IconData(0xFBF4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_p_circle = const IconData(0xFBF5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_p_circle_outline = const IconData(0xFBF6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_q = const IconData(0x0051, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_q_box = const IconData(0xFAFD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_r = const IconData(0xF52, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_q_box_outline = const IconData(0xFBF7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_q_circle = const IconData(0xFBF8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_q_circle_outline = const IconData(0xFBF9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_r = const IconData(0x0052, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_r_box = const IconData(0xFAFE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_s = const IconData(0xF53, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_r_box_outline = const IconData(0xFBFA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_r_circle = const IconData(0xFBFB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_r_circle_outline = const IconData(0xFBFC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_s = const IconData(0x0053, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_s_box = const IconData(0xFAFF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_t = const IconData(0xF54, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_s_box_outline = const IconData(0xFBFD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_s_circle = const IconData(0xFBFE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_s_circle_outline = const IconData(0xFBFF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_t = const IconData(0x0054, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_t_box = const IconData(0xFB00, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_u = const IconData(0xF55, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_t_box_outline = const IconData(0xFC00, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_t_circle = const IconData(0xFC01, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_t_circle_outline = const IconData(0xFC02, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_u = const IconData(0x0055, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_u_box = const IconData(0xFB01, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_v = const IconData(0xF56, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_u_box_outline = const IconData(0xFC03, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_u_circle = const IconData(0xFC04, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_u_circle_outline = const IconData(0xFC05, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_v = const IconData(0x0056, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_v_box = const IconData(0xFB02, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_w = const IconData(0xF57, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_v_box_outline = const IconData(0xFC06, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_v_circle = const IconData(0xFC07, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_v_circle_outline = const IconData(0xFC08, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_w = const IconData(0x0057, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_w_box = const IconData(0xFB03, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_x = const IconData(0xF58, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_w_box_outline = const IconData(0xFC09, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_w_circle = const IconData(0xFC0A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_w_circle_outline = const IconData(0xFC0B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_x = const IconData(0x0058, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_x_box = const IconData(0xFB04, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_y = const IconData(0xF59, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_x_box_outline = const IconData(0xFC0C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_x_circle = const IconData(0xFC0D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_x_circle_outline = const IconData(0xFC0E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_y = const IconData(0x0059, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_y_box = const IconData(0xFB05, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData alpha_z = const IconData(0xF5A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData alpha_y_box_outline = const IconData(0xFC0F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_y_circle = const IconData(0xFC10, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_y_circle_outline = const IconData(0xFC11, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_z = const IconData(0x005A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alpha_z_box = const IconData(0xFB06, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_z_box_outline = const IconData(0xFC12, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_z_circle = const IconData(0xFC13, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData alpha_z_circle_outline = const IconData(0xFC14, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData alphabetical = const IconData(0xF02C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -262,6 +486,8 @@ class CommunityMaterialIcons{
   static const IconData amazon_drive = const IconData(0xF02E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ambulance = const IconData(0xF02F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ammunition = const IconData(0xFCC4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ampersand = const IconData(0xFA8C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -276,6 +502,8 @@ class CommunityMaterialIcons{
   static const IconData android_debug_bridge = const IconData(0xF033, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData android_head = const IconData(0xF78F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData android_messages = const IconData(0xFD21, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData android_studio = const IconData(0xF034, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -321,7 +549,13 @@ class CommunityMaterialIcons{
 
   static const IconData application = const IconData(0xF614, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData application_export = const IconData(0xFD89, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData application_import = const IconData(0xFD8A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData apps = const IconData(0xF03B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData apps_box = const IconData(0xFD22, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arch = const IconData(0xF8C6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -391,6 +625,10 @@ class CommunityMaterialIcons{
 
   static const IconData arrow_down_box = const IconData(0xF6BF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData arrow_down_circle = const IconData(0xFCB7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData arrow_down_circle_outline = const IconData(0xFCB8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData arrow_down_drop_circle = const IconData(0xF04A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arrow_down_drop_circle_outline = const IconData(0xF04B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -431,6 +669,10 @@ class CommunityMaterialIcons{
 
   static const IconData arrow_left_box = const IconData(0xF6C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData arrow_left_circle = const IconData(0xFCB9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData arrow_left_circle_outline = const IconData(0xFCBA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData arrow_left_drop_circle = const IconData(0xF052, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arrow_left_drop_circle_outline = const IconData(0xF053, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -456,6 +698,10 @@ class CommunityMaterialIcons{
   static const IconData arrow_right_bold_outline = const IconData(0xF9C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arrow_right_box = const IconData(0xF6C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData arrow_right_circle = const IconData(0xFCBB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData arrow_right_circle_outline = const IconData(0xFCBC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arrow_right_drop_circle = const IconData(0xF059, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -497,6 +743,10 @@ class CommunityMaterialIcons{
 
   static const IconData arrow_up_box = const IconData(0xF6C2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData arrow_up_circle = const IconData(0xFCBD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData arrow_up_circle_outline = const IconData(0xFCBE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData arrow_up_down_bold_outline = const IconData(0xF9C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData arrow_up_drop_circle = const IconData(0xF062, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -507,6 +757,10 @@ class CommunityMaterialIcons{
 
   static const IconData artist = const IconData(0xF802, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData artist_outline = const IconData(0xFCC5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData artstation = const IconData(0xFB37, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData aspect_ratio = const IconData(0xFA23, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData assistant = const IconData(0xF064, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -516,6 +770,8 @@ class CommunityMaterialIcons{
   static const IconData at = const IconData(0xF065, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData atlassian = const IconData(0xF803, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData atm = const IconData(0xFD23, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData atom = const IconData(0xF767, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -537,6 +793,40 @@ class CommunityMaterialIcons{
 
   static const IconData axe = const IconData(0xF8C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData axis = const IconData(0xFD24, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_arrow = const IconData(0xFD25, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_arrow_lock = const IconData(0xFD26, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_lock = const IconData(0xFD27, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_x_arrow = const IconData(0xFD28, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_x_arrow_lock = const IconData(0xFD29, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_x_rotate_clockwise = const IconData(0xFD2A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_x_rotate_counterclockwise = const IconData(0xFD2B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_x_y_arrow_lock = const IconData(0xFD2C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_y_arrow = const IconData(0xFD2D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_y_arrow_lock = const IconData(0xFD2E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_y_rotate_clockwise = const IconData(0xFD2F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_y_rotate_counterclockwise = const IconData(0xFD30, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_z_arrow = const IconData(0xFD31, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_z_arrow_lock = const IconData(0xFD32, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_z_rotate_clockwise = const IconData(0xFD33, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData axis_z_rotate_counterclockwise = const IconData(0xFD34, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData azure = const IconData(0xF804, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData babel = const IconData(0xFA24, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -549,6 +839,8 @@ class CommunityMaterialIcons{
 
   static const IconData backspace = const IconData(0xF06E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData backspace_outline = const IconData(0xFB38, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData backup_restore = const IconData(0xF06F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData badminton = const IconData(0xF850, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -559,9 +851,21 @@ class CommunityMaterialIcons{
 
   static const IconData ballot_outline = const IconData(0xF9C9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData ballot_recount = const IconData(0xFC15, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ballot_recount_outline = const IconData(0xFC16, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bandage = const IconData(0xFD8B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData bandcamp = const IconData(0xF674, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bank = const IconData(0xF070, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bank_minus = const IconData(0xFD8C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bank_plus = const IconData(0xFD8D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bank_remove = const IconData(0xFD8E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bank_transfer = const IconData(0xFA26, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -574,6 +878,10 @@ class CommunityMaterialIcons{
   static const IconData barcode_scan = const IconData(0xF072, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData barley = const IconData(0xF073, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData barley_off = const IconData(0xFB39, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData barn = const IconData(0xFB3A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData barrel = const IconData(0xF074, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -590,6 +898,12 @@ class CommunityMaterialIcons{
   static const IconData basket_unfill = const IconData(0xF078, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData basketball = const IconData(0xF805, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData basketball_hoop = const IconData(0xFC17, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData basketball_hoop_outline = const IconData(0xFC18, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bat = const IconData(0xFB3B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData battery = const IconData(0xF079, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -699,9 +1013,13 @@ class CommunityMaterialIcons{
 
   static const IconData battery_unknown_bluetooth = const IconData(0xF949, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData battlenet = const IconData(0xFB3C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData beach = const IconData(0xF092, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData beaker = const IconData(0xF68F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData beaker = const IconData(0xFCC6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData beaker_outline = const IconData(0xF68F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData beats = const IconData(0xF097, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -712,6 +1030,12 @@ class CommunityMaterialIcons{
   static const IconData behance = const IconData(0xF099, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bell = const IconData(0xF09A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bell_alert = const IconData(0xFD35, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bell_circle = const IconData(0xFD36, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bell_circle_outline = const IconData(0xFD37, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bell_off = const IconData(0xF09B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -739,6 +1063,10 @@ class CommunityMaterialIcons{
 
   static const IconData bike = const IconData(0xF0A3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData billiards = const IconData(0xFB3D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData billiards_rack = const IconData(0xFB3E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData bing = const IconData(0xF0A4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData binoculars = const IconData(0xF0A5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -755,13 +1083,17 @@ class CommunityMaterialIcons{
 
   static const IconData blackberry = const IconData(0xF0AA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData blender = const IconData(0xF0AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData blender = const IconData(0xFCC7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData blender_software = const IconData(0xF0AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData blinds = const IconData(0xF0AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData block_helper = const IconData(0xF0AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData blogger = const IconData(0xF0AE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData blood_bag = const IconData(0xFCC8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bluetooth = const IconData(0xF0AF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -782,6 +1114,10 @@ class CommunityMaterialIcons{
   static const IconData blur_off = const IconData(0xF0B7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData blur_radial = const IconData(0xF0B8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bolnisi_cross = const IconData(0xFCC9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bolt = const IconData(0xFD8F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bomb = const IconData(0xF690, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -809,9 +1145,13 @@ class CommunityMaterialIcons{
 
   static const IconData book_open = const IconData(0xF0BD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData book_open_outline = const IconData(0xFB3F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData book_open_page_variant = const IconData(0xF5DA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData book_open_variant = const IconData(0xF0BE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData book_outline = const IconData(0xFB40, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData book_plus = const IconData(0xF5DB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -895,31 +1235,55 @@ class CommunityMaterialIcons{
 
   static const IconData box_shadow = const IconData(0xF637, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData boxing_glove = const IconData(0xFB41, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData braille = const IconData(0xF9CF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData brain = const IconData(0xF9D0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bread_slice = const IconData(0xFCCA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bread_slice_outline = const IconData(0xFCCB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bridge = const IconData(0xF618, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData briefcase = const IconData(0xF0D6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData briefcase_account = const IconData(0xFCCC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData briefcase_account_outline = const IconData(0xFCCD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData briefcase_check = const IconData(0xF0D7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData briefcase_download = const IconData(0xF0D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData briefcase_download_outline = const IconData(0xFC19, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData briefcase_edit = const IconData(0xFA97, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData briefcase_edit_outline = const IconData(0xFC1A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData briefcase_minus = const IconData(0xFA29, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData briefcase_minus_outline = const IconData(0xFC1B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData briefcase_outline = const IconData(0xF813, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData briefcase_plus = const IconData(0xFA2A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData briefcase_plus_outline = const IconData(0xFC1C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData briefcase_remove = const IconData(0xFA2B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData briefcase_remove_outline = const IconData(0xFC1D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData briefcase_search = const IconData(0xFA2C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData briefcase_search_outline = const IconData(0xFC1E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData briefcase_upload = const IconData(0xF0D9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData briefcase_upload_outline = const IconData(0xFC1F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData brightness_1 = const IconData(0xF0DA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -937,6 +1301,8 @@ class CommunityMaterialIcons{
 
   static const IconData brightness_auto = const IconData(0xF0E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData brightness_percent = const IconData(0xFCCE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData broom = const IconData(0xF0E2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData brush = const IconData(0xF0E3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -953,7 +1319,11 @@ class CommunityMaterialIcons{
 
   static const IconData bug_outline = const IconData(0xFA2F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData bugle = const IconData(0xFD90, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData bulldozer = const IconData(0xFB07, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData bullet = const IconData(0xFCCF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData bulletin_board = const IconData(0xF0E5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -983,6 +1353,8 @@ class CommunityMaterialIcons{
 
   static const IconData cached = const IconData(0xF0E8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData cactus = const IconData(0xFD91, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData cake = const IconData(0xF0E9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cake_layered = const IconData(0xF0EA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -999,7 +1371,11 @@ class CommunityMaterialIcons{
 
   static const IconData calendar_blank = const IconData(0xF0EE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData calendar_blank_outline = const IconData(0xFB42, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData calendar_check = const IconData(0xF0EF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData calendar_check_outline = const IconData(0xFC20, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_clock = const IconData(0xF0F0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1011,11 +1387,15 @@ class CommunityMaterialIcons{
 
   static const IconData calendar_import = const IconData(0xFB0A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData calendar_minus = const IconData(0xFD38, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData calendar_multiple = const IconData(0xF0F1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_multiple_check = const IconData(0xF0F2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_multiselect = const IconData(0xFA31, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData calendar_outline = const IconData(0xFB43, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_plus = const IconData(0xF0F3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1023,13 +1403,19 @@ class CommunityMaterialIcons{
 
   static const IconData calendar_range = const IconData(0xF678, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData calendar_range_outline = const IconData(0xFB44, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData calendar_remove = const IconData(0xF0F4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData calendar_remove_outline = const IconData(0xFC21, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_search = const IconData(0xF94B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_star = const IconData(0xF9D2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_text = const IconData(0xF0F5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData calendar_text_outline = const IconData(0xFC22, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData calendar_today = const IconData(0xF0F6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1061,7 +1447,11 @@ class CommunityMaterialIcons{
 
   static const IconData camera_burst = const IconData(0xF692, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData camera_control = const IconData(0xFB45, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData camera_enhance = const IconData(0xF101, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData camera_enhance_outline = const IconData(0xFB46, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData camera_front = const IconData(0xF102, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1083,6 +1473,8 @@ class CommunityMaterialIcons{
 
   static const IconData camera_off = const IconData(0xF5DF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData camera_outline = const IconData(0xFD39, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData camera_party_mode = const IconData(0xF105, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData camera_rear = const IconData(0xF106, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1092,6 +1484,10 @@ class CommunityMaterialIcons{
   static const IconData camera_switch = const IconData(0xF108, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData camera_timer = const IconData(0xF109, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData camera_wireless = const IconData(0xFD92, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData camera_wireless_outline = const IconData(0xFD93, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cancel = const IconData(0xF739, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1107,15 +1503,47 @@ class CommunityMaterialIcons{
 
   static const IconData car_battery = const IconData(0xF10C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData car_brake_abs = const IconData(0xFC23, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_brake_alert = const IconData(0xFC24, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_brake_hold = const IconData(0xFD3A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_brake_parking = const IconData(0xFD3B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData car_connected = const IconData(0xF10D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData car_convertible = const IconData(0xF7A6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_cruise_control = const IconData(0xFD3C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_defrost_front = const IconData(0xFD3D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_defrost_rear = const IconData(0xFD3E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_door = const IconData(0xFB47, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_electric = const IconData(0xFB48, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_esp = const IconData(0xFC25, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData car_estate = const IconData(0xF7A7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData car_hatchback = const IconData(0xF7A8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData car_key = const IconData(0xFB49, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_light_dimmed = const IconData(0xFC26, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_light_fog = const IconData(0xFC27, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_light_high = const IconData(0xFC28, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData car_limousine = const IconData(0xF8CC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_multiple = const IconData(0xFB4A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_parking_lights = const IconData(0xFD3F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData car_pickup = const IconData(0xF7A9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1123,9 +1551,33 @@ class CommunityMaterialIcons{
 
   static const IconData car_sports = const IconData(0xF7AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData car_tire_alert = const IconData(0xFC29, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData car_traction_control = const IconData(0xFD40, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData car_wash = const IconData(0xF10E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData caravan = const IconData(0xF7AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card = const IconData(0xFB4B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted = const IconData(0xFB4C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted_off = const IconData(0xFB4D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted_off_outline = const IconData(0xFB4E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted_outline = const IconData(0xFB4F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted_settings = const IconData(0xFB50, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_bulleted_settings_outline = const IconData(0xFB51, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_outline = const IconData(0xFB52, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_text = const IconData(0xFB53, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData card_text_outline = const IconData(0xFB54, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cards = const IconData(0xF638, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1145,7 +1597,17 @@ class CommunityMaterialIcons{
 
   static const IconData carrot = const IconData(0xF10F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData carry_on_bag_check = const IconData(0xFD41, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData cart = const IconData(0xF110, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cart_arrow_down = const IconData(0xFD42, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cart_arrow_right = const IconData(0xFC2A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cart_arrow_up = const IconData(0xFD43, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cart_minus = const IconData(0xFD44, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cart_off = const IconData(0xF66B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1153,15 +1615,21 @@ class CommunityMaterialIcons{
 
   static const IconData cart_plus = const IconData(0xF112, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData cart_remove = const IconData(0xFD45, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData case_sensitive_alt = const IconData(0xF113, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cash = const IconData(0xF114, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cash_100 = const IconData(0xF115, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData cash_marker = const IconData(0xFD94, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData cash_multiple = const IconData(0xF116, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cash_refund = const IconData(0xFA9B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cash_register = const IconData(0xFCD0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cash_usd = const IconData(0xF117, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1219,9 +1687,13 @@ class CommunityMaterialIcons{
 
   static const IconData cellphone_wireless = const IconData(0xF814, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData celtic_cross = const IconData(0xFCD1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData certificate = const IconData(0xF124, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chair_school = const IconData(0xF125, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData charity = const IconData(0xFC2B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chart_arc = const IconData(0xF126, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1230,6 +1702,8 @@ class CommunityMaterialIcons{
   static const IconData chart_bar = const IconData(0xF128, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chart_bar_stacked = const IconData(0xF769, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chart_bell_curve = const IconData(0xFC2C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chart_bubble = const IconData(0xF5E3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1255,15 +1729,29 @@ class CommunityMaterialIcons{
 
   static const IconData chart_timeline = const IconData(0xF66E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData chat = const IconData(0xFB55, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chat_alert = const IconData(0xFB56, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chat_processing = const IconData(0xFB57, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData check = const IconData(0xF12C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData check_all = const IconData(0xF12D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData check_box_multiple_outline = const IconData(0xFC2D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData check_box_outline = const IconData(0xFC2E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData check_circle = const IconData(0xF5E0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData check_circle_outline = const IconData(0xF5E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData check_decagram = const IconData(0xF790, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData check_network = const IconData(0xFC2F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData check_network_outline = const IconData(0xFC30, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData check_outline = const IconData(0xF854, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1304,6 +1792,8 @@ class CommunityMaterialIcons{
   static const IconData checkbox_multiple_marked_outline = const IconData(0xF139, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData checkerboard = const IconData(0xF13A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chef_hat = const IconData(0xFB58, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chemical_weapon = const IconData(0xF13B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1357,6 +1847,14 @@ class CommunityMaterialIcons{
 
   static const IconData chevron_right_circle_outline = const IconData(0xFB10, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData chevron_triple_down = const IconData(0xFD95, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chevron_triple_left = const IconData(0xFD96, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chevron_triple_right = const IconData(0xFD97, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData chevron_triple_up = const IconData(0xFD98, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData chevron_up = const IconData(0xF143, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData chevron_up_box = const IconData(0xF9DB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1376,6 +1874,8 @@ class CommunityMaterialIcons{
   static const IconData chip = const IconData(0xF61A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData christianity = const IconData(0xF952, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData christianity_outline = const IconData(0xFCD2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData church = const IconData(0xF144, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1417,11 +1917,27 @@ class CommunityMaterialIcons{
 
   static const IconData clipboard_account = const IconData(0xF148, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData clipboard_account_outline = const IconData(0xFC31, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData clipboard_alert = const IconData(0xF149, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_alert_outline = const IconData(0xFCD3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clipboard_arrow_down = const IconData(0xF14A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData clipboard_arrow_down_outline = const IconData(0xFC32, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData clipboard_arrow_left = const IconData(0xF14B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_arrow_left_outline = const IconData(0xFCD4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_arrow_right = const IconData(0xFCD5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_arrow_right_outline = const IconData(0xFCD6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_arrow_up = const IconData(0xFC33, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_arrow_up_outline = const IconData(0xFC34, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clipboard_check = const IconData(0xF14C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1430,6 +1946,10 @@ class CommunityMaterialIcons{
   static const IconData clipboard_flow = const IconData(0xF6C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clipboard_outline = const IconData(0xF14D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_play = const IconData(0xFC35, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_play_outline = const IconData(0xFC36, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clipboard_plus = const IconData(0xF750, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1440,6 +1960,10 @@ class CommunityMaterialIcons{
   static const IconData clipboard_text = const IconData(0xF14E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clipboard_text_outline = const IconData(0xFA37, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_text_play = const IconData(0xFC37, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData clipboard_text_play_outline = const IconData(0xFC38, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clippy = const IconData(0xF14F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1465,6 +1989,10 @@ class CommunityMaterialIcons{
 
   static const IconData close_box = const IconData(0xF157, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData close_box_multiple = const IconData(0xFC39, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData close_box_multiple_outline = const IconData(0xFC3A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData close_box_outline = const IconData(0xF158, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData close_circle = const IconData(0xF159, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1473,6 +2001,8 @@ class CommunityMaterialIcons{
 
   static const IconData close_network = const IconData(0xF15B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData close_network_outline = const IconData(0xFC3B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData close_octagon = const IconData(0xF15C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData close_octagon_outline = const IconData(0xF15D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1480,6 +2010,8 @@ class CommunityMaterialIcons{
   static const IconData close_outline = const IconData(0xF6C8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData closed_caption = const IconData(0xF15E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData closed_caption_outline = const IconData(0xFD99, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cloud = const IconData(0xF15F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1492,6 +2024,8 @@ class CommunityMaterialIcons{
   static const IconData cloud_circle = const IconData(0xF161, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cloud_download = const IconData(0xF162, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cloud_download_outline = const IconData(0xFB59, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cloud_off_outline = const IconData(0xF164, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1512,6 +2046,8 @@ class CommunityMaterialIcons{
   static const IconData cloud_tags = const IconData(0xF7B5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cloud_upload = const IconData(0xF167, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cloud_upload_outline = const IconData(0xFB5A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData clover = const IconData(0xF815, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1550,6 +2086,8 @@ class CommunityMaterialIcons{
   static const IconData coffee_outline = const IconData(0xF6C9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData coffee_to_go = const IconData(0xF177, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData coffin = const IconData(0xFB5B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cogs = const IconData(0xF8D5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1629,6 +2167,10 @@ class CommunityMaterialIcons{
 
   static const IconData compass = const IconData(0xF18B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData compass_off = const IconData(0xFB5C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData compass_off_outline = const IconData(0xFB5D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData compass_outline = const IconData(0xF18C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData console = const IconData(0xF18D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1637,7 +2179,11 @@ class CommunityMaterialIcons{
 
   static const IconData console_network = const IconData(0xF8A8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData console_network_outline = const IconData(0xFC3C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData contact_mail = const IconData(0xF18E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData contactless_payment = const IconData(0xFD46, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData contacts = const IconData(0xF6CA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1659,6 +2205,10 @@ class CommunityMaterialIcons{
 
   static const IconData content_save_all = const IconData(0xF194, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData content_save_edit = const IconData(0xFCD7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData content_save_edit_outline = const IconData(0xFCD8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData content_save_outline = const IconData(0xF817, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData content_save_settings = const IconData(0xF61B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1670,6 +2220,10 @@ class CommunityMaterialIcons{
   static const IconData contrast_box = const IconData(0xF196, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData contrast_circle = const IconData(0xF197, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData controller_classic = const IconData(0xFB5E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData controller_classic_outline = const IconData(0xFB5F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cookie = const IconData(0xF198, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1687,7 +2241,11 @@ class CommunityMaterialIcons{
 
   static const IconData creation = const IconData(0xF1C9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData creative_commons = const IconData(0xFD47, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData credit_card = const IconData(0xF19B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData credit_card_marker = const IconData(0xFD9A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData credit_card_multiple = const IconData(0xF19C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1700,6 +2258,10 @@ class CommunityMaterialIcons{
   static const IconData credit_card_scan = const IconData(0xF19D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData credit_card_settings = const IconData(0xF8D6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData credit_card_wireless = const IconData(0xFD48, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cricket = const IconData(0xFD49, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData crop = const IconData(0xF19E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1727,6 +2289,8 @@ class CommunityMaterialIcons{
 
   static const IconData cube_outline = const IconData(0xF1A7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData cube_scan = const IconData(0xFB60, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData cube_send = const IconData(0xF1A8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cube_unfolded = const IconData(0xF1A9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1743,6 +2307,8 @@ class CommunityMaterialIcons{
 
   static const IconData currency_bdt = const IconData(0xF863, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData currency_brl = const IconData(0xFB61, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData currency_btc = const IconData(0xF1AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData currency_chf = const IconData(0xF7B8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1754,6 +2320,8 @@ class CommunityMaterialIcons{
   static const IconData currency_eur = const IconData(0xF1AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData currency_gbp = const IconData(0xF1AE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData currency_ils = const IconData(0xFC3D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData currency_inr = const IconData(0xF1AF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1785,6 +2353,10 @@ class CommunityMaterialIcons{
 
   static const IconData cursor_default = const IconData(0xF1B4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData cursor_default_click = const IconData(0xFCD9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData cursor_default_click_outline = const IconData(0xFCDA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData cursor_default_outline = const IconData(0xF1B5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData cursor_move = const IconData(0xF1B6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1797,6 +2369,8 @@ class CommunityMaterialIcons{
 
   static const IconData database_check = const IconData(0xFAA8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData database_edit = const IconData(0xFB62, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData database_export = const IconData(0xF95D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData database_import = const IconData(0xF95C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1807,11 +2381,19 @@ class CommunityMaterialIcons{
 
   static const IconData database_plus = const IconData(0xF1BA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData database_refresh = const IconData(0xFCDB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData database_remove = const IconData(0xFCDC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData database_search = const IconData(0xF865, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData database_settings = const IconData(0xFCDD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData death_star = const IconData(0xF8D7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData death_star_variant = const IconData(0xF8D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData deathly_hallows = const IconData(0xFB63, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData debian = const IconData(0xF8D9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1833,15 +2415,21 @@ class CommunityMaterialIcons{
 
   static const IconData delete_circle = const IconData(0xF682, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData delete_circle_outline = const IconData(0xFB64, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData delete_empty = const IconData(0xF6CB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData delete_forever = const IconData(0xF5E8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData delete_forever_outline = const IconData(0xFB65, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData delete_outline = const IconData(0xF9E6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData delete_restore = const IconData(0xF818, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData delete_sweep = const IconData(0xF5E9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData delete_sweep_outline = const IconData(0xFC3E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData delete_variant = const IconData(0xF1C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1863,13 +2451,25 @@ class CommunityMaterialIcons{
 
   static const IconData details = const IconData(0xF1C6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData dev_to = const IconData(0xFD4A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData developer_board = const IconData(0xF696, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData deviantart = const IconData(0xF1C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData dialpad = const IconData(0xF61C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData diamond = const IconData(0xF1C8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData diameter = const IconData(0xFC3F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diameter_outline = const IconData(0xFC40, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diameter_variant = const IconData(0xFC41, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diamond = const IconData(0xFB66, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diamond_outline = const IconData(0xFB67, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diamond_stone = const IconData(0xF1C8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData dice_1 = const IconData(0xF1CA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1919,6 +2519,20 @@ class CommunityMaterialIcons{
 
   static const IconData disqus_outline = const IconData(0xF1D3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData diving_flippers = const IconData(0xFD9B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_helmet = const IconData(0xFD9C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_scuba = const IconData(0xFD9D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_scuba_flag = const IconData(0xFD9E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_scuba_tank = const IconData(0xFD9F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_scuba_tank_multiple = const IconData(0xFDA0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData diving_snorkel = const IconData(0xFDA1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData division = const IconData(0xF1D4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData division_box = const IconData(0xF1D5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1928,6 +2542,8 @@ class CommunityMaterialIcons{
   static const IconData dna = const IconData(0xF683, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData dns = const IconData(0xF1D6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData dns_outline = const IconData(0xFB68, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData do_not_disturb = const IconData(0xF697, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1947,6 +2563,8 @@ class CommunityMaterialIcons{
 
   static const IconData domain = const IconData(0xF1D7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData domain_off = const IconData(0xFD4B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData donkey = const IconData(0xF7C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData door = const IconData(0xF819, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -1963,9 +2581,13 @@ class CommunityMaterialIcons{
 
   static const IconData dots_horizontal_circle = const IconData(0xF7C2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData dots_horizontal_circle_outline = const IconData(0xFB69, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData dots_vertical = const IconData(0xF1D9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData dots_vertical_circle = const IconData(0xF7C3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData dots_vertical_circle_outline = const IconData(0xFB6A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData douban = const IconData(0xF699, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1975,11 +2597,19 @@ class CommunityMaterialIcons{
 
   static const IconData download_network = const IconData(0xF6F3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData download_network_outline = const IconData(0xFC42, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData download_outline = const IconData(0xFB6B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData drag = const IconData(0xF1DB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData drag_horizontal = const IconData(0xF1DC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData drag_variant = const IconData(0xFB6C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData drag_vertical = const IconData(0xF1DD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData drama_masks = const IconData(0xFCDE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData drawing = const IconData(0xF1DE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -1998,6 +2628,8 @@ class CommunityMaterialIcons{
   static const IconData duck = const IconData(0xF1E5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData dumbbell = const IconData(0xF1E6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData dump_truck = const IconData(0xFC43, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ear_hearing = const IconData(0xF7C4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2021,6 +2653,8 @@ class CommunityMaterialIcons{
 
   static const IconData eject = const IconData(0xF1EA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData eject_outline = const IconData(0xFB6D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData elephant = const IconData(0xF7C5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData elevation_decline = const IconData(0xF1EB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2033,11 +2667,15 @@ class CommunityMaterialIcons{
 
   static const IconData email_alert = const IconData(0xF6CE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData email_box = const IconData(0xFCDF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData email_check = const IconData(0xFAB0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData email_check_outline = const IconData(0xFAB1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData email_lock = const IconData(0xF1F1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData email_mark_as_unread = const IconData(0xFB6E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData email_open = const IconData(0xF1EF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2059,25 +2697,61 @@ class CommunityMaterialIcons{
 
   static const IconData emby = const IconData(0xF6B3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon = const IconData(0xF1F2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon = const IconData(0xFC44, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_cool = const IconData(0xF1F3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_angry = const IconData(0xFC45, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_dead = const IconData(0xF69A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_angry_outline = const IconData(0xFC46, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_devil = const IconData(0xF1F4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_cool = const IconData(0xFC47, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_excited = const IconData(0xF69B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_cool_outline = const IconData(0xF1F3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_happy = const IconData(0xF1F5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_cry = const IconData(0xFC48, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_neutral = const IconData(0xF1F6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_cry_outline = const IconData(0xFC49, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_dead = const IconData(0xFC4A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_dead_outline = const IconData(0xF69A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_devil = const IconData(0xFC4B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_devil_outline = const IconData(0xF1F4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_excited = const IconData(0xFC4C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_excited_outline = const IconData(0xF69B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_happy = const IconData(0xFC4D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_happy_outline = const IconData(0xF1F5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_kiss = const IconData(0xFC4E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_kiss_outline = const IconData(0xFC4F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_neutral = const IconData(0xFC50, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_neutral_outline = const IconData(0xF1F6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_outline = const IconData(0xF1F2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData emoticon_poop = const IconData(0xF1F7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData emoticon_sad = const IconData(0xF1F8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData emoticon_poop_outline = const IconData(0xFC51, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_sad = const IconData(0xFC52, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_sad_outline = const IconData(0xF1F8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData emoticon_tongue = const IconData(0xF1F9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_tongue_outline = const IconData(0xFC53, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_wink = const IconData(0xFC54, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData emoticon_wink_outline = const IconData(0xFC55, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData engine = const IconData(0xF1FA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2096,6 +2770,8 @@ class CommunityMaterialIcons{
   static const IconData eraser_variant = const IconData(0xF642, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData escalator = const IconData(0xF1FF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData eslint = const IconData(0xFC56, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData et = const IconData(0xFAB2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2129,9 +2805,19 @@ class CommunityMaterialIcons{
 
   static const IconData exponent_box = const IconData(0xF963, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData export_icon = const IconData(0xF207, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData export = const IconData(0xF207, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData export_variant = const IconData(0xFB6F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData eye = const IconData(0xF208, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData eye_check = const IconData(0xFCE0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData eye_check_outline = const IconData(0xFCE1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData eye_circle = const IconData(0xFB70, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData eye_circle_outline = const IconData(0xFB71, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData eye_off = const IconData(0xF209, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2153,7 +2839,13 @@ class CommunityMaterialIcons{
 
   static const IconData face = const IconData(0xF643, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData face_agent = const IconData(0xFD4C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData face_outline = const IconData(0xFB72, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData face_profile = const IconData(0xF644, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData face_recognition = const IconData(0xFC57, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData facebook = const IconData(0xF20C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2163,13 +2855,17 @@ class CommunityMaterialIcons{
 
   static const IconData facebook_workplace = const IconData(0xFB16, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData factory_icon = const IconData(0xF20F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData factory = const IconData(0xF20F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData fan = const IconData(0xF210, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData fan_off = const IconData(0xF81C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData fast_forward = const IconData(0xF211, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fast_forward_10 = const IconData(0xFD4D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fast_forward_30 = const IconData(0xFCE2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData fast_forward_outline = const IconData(0xF6D1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2195,6 +2891,10 @@ class CommunityMaterialIcons{
 
   static const IconData file_cabinet = const IconData(0xFAB5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData file_cancel = const IconData(0xFDA2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_cancel_outline = const IconData(0xFDA3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData file_chart = const IconData(0xF215, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_check = const IconData(0xF216, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2215,6 +2915,10 @@ class CommunityMaterialIcons{
 
   static const IconData file_document_box_outline = const IconData(0xF9EC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData file_document_edit = const IconData(0xFDA4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_document_edit_outline = const IconData(0xFDA5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData file_document_outline = const IconData(0xF9ED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_download = const IconData(0xF964, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2227,7 +2931,13 @@ class CommunityMaterialIcons{
 
   static const IconData file_export = const IconData(0xF21D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData file_eye = const IconData(0xFDA6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_eye_outline = const IconData(0xFDA7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData file_find = const IconData(0xF21E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_find_outline = const IconData(0xFB73, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_hidden = const IconData(0xF613, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2261,13 +2971,23 @@ class CommunityMaterialIcons{
 
   static const IconData file_question = const IconData(0xF86E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData file_remove = const IconData(0xFB74, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData file_replace = const IconData(0xFB17, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_replace_outline = const IconData(0xFB18, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_restore = const IconData(0xF670, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData file_search = const IconData(0xFC58, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_search_outline = const IconData(0xFC59, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData file_send = const IconData(0xF22A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_table = const IconData(0xFC5A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData file_table_outline = const IconData(0xFC5B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData file_tree = const IconData(0xF645, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2321,13 +3041,21 @@ class CommunityMaterialIcons{
 
   static const IconData flag_checkered = const IconData(0xF23C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData flag_minus = const IconData(0xFB75, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData flag_outline = const IconData(0xF23D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData flag_plus = const IconData(0xFB76, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData flag_remove = const IconData(0xFB77, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flag_triangle = const IconData(0xF23F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flag_variant = const IconData(0xF240, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flag_variant_outline = const IconData(0xF23E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData flare = const IconData(0xFD4E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flash = const IconData(0xF241, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2355,6 +3083,8 @@ class CommunityMaterialIcons{
 
   static const IconData flattr = const IconData(0xF246, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData flickr = const IconData(0xFCE3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData flip_to_back = const IconData(0xF247, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flip_to_front = const IconData(0xF248, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2371,6 +3101,8 @@ class CommunityMaterialIcons{
 
   static const IconData flower_outline = const IconData(0xF9EF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData flower_poppy = const IconData(0xFCE4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData flower_tulip = const IconData(0xF9F0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData flower_tulip_outline = const IconData(0xF9F1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2378,6 +3110,12 @@ class CommunityMaterialIcons{
   static const IconData folder = const IconData(0xF24B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_account = const IconData(0xF24C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_account_outline = const IconData(0xFB78, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_alert = const IconData(0xFDA8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_alert_outline = const IconData(0xFDA9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_clock = const IconData(0xFAB9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2387,6 +3125,8 @@ class CommunityMaterialIcons{
 
   static const IconData folder_edit = const IconData(0xF8DD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData folder_edit_outline = const IconData(0xFDAA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData folder_google_drive = const IconData(0xF24E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_image = const IconData(0xF24F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2394,6 +3134,8 @@ class CommunityMaterialIcons{
   static const IconData folder_key = const IconData(0xF8AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_key_network = const IconData(0xF8AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_key_network_outline = const IconData(0xFC5C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_lock = const IconData(0xF250, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2409,19 +3151,41 @@ class CommunityMaterialIcons{
 
   static const IconData folder_network = const IconData(0xF86F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData folder_network_outline = const IconData(0xFC5D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData folder_open = const IconData(0xF76F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_open_outline = const IconData(0xFDAB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_outline = const IconData(0xF256, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_plus = const IconData(0xF257, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData folder_plus_outline = const IconData(0xFB79, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_pound = const IconData(0xFCE5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_pound_outline = const IconData(0xFCE6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData folder_remove = const IconData(0xF258, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_remove_outline = const IconData(0xFB7A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_search = const IconData(0xF967, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_search_outline = const IconData(0xF968, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_star = const IconData(0xF69C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_star_outline = const IconData(0xFB7B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_sync = const IconData(0xFCE7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_sync_outline = const IconData(0xFCE8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_text = const IconData(0xFC5E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData folder_text_outline = const IconData(0xFC5F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData folder_upload = const IconData(0xF259, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2430,6 +3194,8 @@ class CommunityMaterialIcons{
   static const IconData food = const IconData(0xF25A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData food_apple = const IconData(0xF25B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData food_apple_outline = const IconData(0xFC60, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData food_croissant = const IconData(0xF7C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2535,13 +3301,17 @@ class CommunityMaterialIcons{
 
   static const IconData format_list_bulleted = const IconData(0xF279, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData format_list_bulleted_square = const IconData(0xFDAC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData format_list_bulleted_type = const IconData(0xF27A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData format_list_checkbox = const IconData(0xF969, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData format_list_checks = const IconData(0xF755, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData format_list_numbers = const IconData(0xF27B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData format_list_numbered = const IconData(0xF27B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_list_numbered_rtl = const IconData(0xFCE9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData format_page_break = const IconData(0xF6D6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2571,6 +3341,18 @@ class CommunityMaterialIcons{
 
   static const IconData format_text = const IconData(0xF284, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData format_text_rotation_down = const IconData(0xFD4F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_text_rotation_none = const IconData(0xFD50, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_text_wrapping_clip = const IconData(0xFCEA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_text_wrapping_overflow = const IconData(0xFCEB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_text_wrapping_wrap = const IconData(0xFCEC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData format_textbox = const IconData(0xFCED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData format_textdirection_l_to_r = const IconData(0xF285, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData format_textdirection_r_to_l = const IconData(0xF286, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2599,19 +3381,25 @@ class CommunityMaterialIcons{
 
   static const IconData forward = const IconData(0xF28D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData forwardburger = const IconData(0xFD51, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData fountain = const IconData(0xF96A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fountain_pen = const IconData(0xFCEE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fountain_pen_tip = const IconData(0xFCEF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData foursquare = const IconData(0xF28E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData freebsd = const IconData(0xF8DF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData fridge = const IconData(0xF28F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData fridge = const IconData(0xF290, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData fridge_filled = const IconData(0xF290, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData fridge_bottom = const IconData(0xF292, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData fridge_filled_bottom = const IconData(0xF291, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData fridge_outline = const IconData(0xF28F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData fridge_filled_top = const IconData(0xF292, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData fridge_top = const IconData(0xF291, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData fuel = const IconData(0xF7C9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2619,13 +3407,19 @@ class CommunityMaterialIcons{
 
   static const IconData fullscreen_exit = const IconData(0xF294, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData function_icon = const IconData(0xF295, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData function = const IconData(0xF295, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData function_variant = const IconData(0xF870, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fuse = const IconData(0xFC61, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData fuse_blade = const IconData(0xFC62, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gamepad = const IconData(0xF296, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gamepad_variant = const IconData(0xF297, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData gantry_crane = const IconData(0xFDAD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData garage = const IconData(0xF6D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2681,6 +3475,8 @@ class CommunityMaterialIcons{
 
   static const IconData gesture_spread = const IconData(0xFABD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData gesture_swipe = const IconData(0xFD52, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData gesture_swipe_down = const IconData(0xF73C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gesture_swipe_horizontal = const IconData(0xFABE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2695,6 +3491,8 @@ class CommunityMaterialIcons{
 
   static const IconData gesture_tap = const IconData(0xF740, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData gesture_tap_hold = const IconData(0xFD53, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData gesture_two_double_tap = const IconData(0xF741, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gesture_two_tap = const IconData(0xF742, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2702,6 +3500,8 @@ class CommunityMaterialIcons{
   static const IconData ghost = const IconData(0xF2A0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ghost_off = const IconData(0xF9F4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData gif = const IconData(0xFD54, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gift = const IconData(0xF2A1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2712,6 +3512,8 @@ class CommunityMaterialIcons{
   static const IconData github_circle = const IconData(0xF2A4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData github_face = const IconData(0xF6DA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData gitlab = const IconData(0xFB7C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData glass_cocktail = const IconData(0xF356, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2735,11 +3537,21 @@ class CommunityMaterialIcons{
 
   static const IconData gnome = const IconData(0xF2AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData go_kart = const IconData(0xFD55, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData go_kart_track = const IconData(0xFD56, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData gog = const IconData(0xFB7D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData golf = const IconData(0xF822, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gondola = const IconData(0xF685, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData goodreads = const IconData(0xFD57, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData google = const IconData(0xF2AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData google_adwords = const IconData(0xFC63, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData google_allo = const IconData(0xF801, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2758,6 +3570,8 @@ class CommunityMaterialIcons{
   static const IconData google_circles_extended = const IconData(0xF2B2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData google_circles_group = const IconData(0xF2B3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData google_classroom = const IconData(0xF2C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData google_controller = const IconData(0xF2B4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2797,15 +3611,19 @@ class CommunityMaterialIcons{
 
   static const IconData google_spreadsheet = const IconData(0xF9F6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData google_translate = const IconData(0xF2BF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData google_street_view = const IconData(0xFC64, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData google_wallet = const IconData(0xF2C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData google_translate = const IconData(0xF2BF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gpu = const IconData(0xF8AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData gradient = const IconData(0xF69F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData grain = const IconData(0xFD58, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData graphql = const IconData(0xF876, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData grave_stone = const IconData(0xFB7E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData grease_pencil = const IconData(0xF648, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2835,6 +3653,8 @@ class CommunityMaterialIcons{
 
   static const IconData hail = const IconData(0xFAC0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData halloween = const IconData(0xFB7F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData hamburger = const IconData(0xF684, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData hammer = const IconData(0xF8E9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2861,6 +3681,14 @@ class CommunityMaterialIcons{
 
   static const IconData harddisk = const IconData(0xF2CA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData hat_fedora = const IconData(0xFB80, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData hazard_lights = const IconData(0xFC65, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData hdr = const IconData(0xFD59, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData hdr_off = const IconData(0xFD5A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData headphones = const IconData(0xF2CB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData headphones_bluetooth = const IconData(0xF96F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2884,6 +3712,8 @@ class CommunityMaterialIcons{
   static const IconData heart_box_outline = const IconData(0xF2D3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData heart_broken = const IconData(0xF2D4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData heart_broken_outline = const IconData(0xFCF0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData heart_circle = const IconData(0xF970, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2917,6 +3747,12 @@ class CommunityMaterialIcons{
 
   static const IconData help_network = const IconData(0xF6F4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData help_network_outline = const IconData(0xFC66, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData help_rhombus = const IconData(0xFB81, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData help_rhombus_outline = const IconData(0xFB82, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData hexagon = const IconData(0xF2D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData hexagon_multiple = const IconData(0xF6E0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2945,6 +3781,8 @@ class CommunityMaterialIcons{
 
   static const IconData highway = const IconData(0xF5F7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData hiking = const IconData(0xFD5B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData hinduism = const IconData(0xF972, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData history = const IconData(0xF2DA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -2967,7 +3805,31 @@ class CommunityMaterialIcons{
 
   static const IconData home_circle = const IconData(0xF7D1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData home_city = const IconData(0xFCF1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_city_outline = const IconData(0xFCF2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData home_currency_usd = const IconData(0xF8AE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_0 = const IconData(0xFDAE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_1 = const IconData(0xFD5C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_2 = const IconData(0xFD5D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_3 = const IconData(0xFD5E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_a = const IconData(0xFD5F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_b = const IconData(0xFD60, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_g = const IconData(0xFD61, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_l = const IconData(0xFD62, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_floor_negative_1 = const IconData(0xFDAF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_group = const IconData(0xFDB0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData home_heart = const IconData(0xF826, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -2986,6 +3848,8 @@ class CommunityMaterialIcons{
   static const IconData home_plus = const IconData(0xF974, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData home_variant = const IconData(0xF2DE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData home_variant_outline = const IconData(0xFB83, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData hook = const IconData(0xF6E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3008,6 +3872,8 @@ class CommunityMaterialIcons{
   static const IconData houzz = const IconData(0xF2E4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData houzz_box = const IconData(0xF2E5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData hubspot = const IconData(0xFCF3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData hulu = const IconData(0xF828, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3044,6 +3910,10 @@ class CommunityMaterialIcons{
   static const IconData humble_bundle = const IconData(0xF743, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ice_cream = const IconData(0xF829, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData iframe = const IconData(0xFC67, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData iframe_outline = const IconData(0xFC68, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData image = const IconData(0xF2E9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3091,7 +3961,13 @@ class CommunityMaterialIcons{
 
   static const IconData image_search_outline = const IconData(0xF977, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData import_icon = const IconData(0xF2FA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData image_size_select_actual = const IconData(0xFC69, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData image_size_select_large = const IconData(0xFC6A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData image_size_select_small = const IconData(0xFC6B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData import = const IconData(0xF2FA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData inbox = const IconData(0xF686, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3100,6 +3976,8 @@ class CommunityMaterialIcons{
   static const IconData inbox_arrow_up = const IconData(0xF3D1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData inbox_multiple = const IconData(0xF8AF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData inbox_multiple_outline = const IconData(0xFB84, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData incognito = const IconData(0xF5F9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3123,9 +4001,15 @@ class CommunityMaterialIcons{
 
   static const IconData ip_network = const IconData(0xFA5F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData ip_network_outline = const IconData(0xFC6C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ipod = const IconData(0xFC6D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData islam = const IconData(0xF978, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData itunes = const IconData(0xF676, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData jabber = const IconData(0xFDB1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData jeepney = const IconData(0xF302, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3139,6 +4023,8 @@ class CommunityMaterialIcons{
 
   static const IconData judaism = const IconData(0xF979, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData kabaddi = const IconData(0xFD63, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData karate = const IconData(0xF82B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData keg = const IconData(0xF305, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3150,6 +4036,8 @@ class CommunityMaterialIcons{
   static const IconData key_change = const IconData(0xF307, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData key_minus = const IconData(0xF308, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData key_outline = const IconData(0xFDB2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData key_plus = const IconData(0xF309, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3223,6 +4111,8 @@ class CommunityMaterialIcons{
 
   static const IconData language_go = const IconData(0xF7D2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData language_haskell = const IconData(0xFC6E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData language_html5 = const IconData(0xF31D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData language_java = const IconData(0xFB1C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3277,6 +4167,12 @@ class CommunityMaterialIcons{
 
   static const IconData leaf = const IconData(0xF32A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData leaf_maple = const IconData(0xFC6F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData leak = const IconData(0xFDB3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData leak_off = const IconData(0xFDB4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData led_off = const IconData(0xF32B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData led_on = const IconData(0xF32C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3295,13 +4191,19 @@ class CommunityMaterialIcons{
 
   static const IconData less_than_or_equal = const IconData(0xF97C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData library_icon = const IconData(0xF331, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData library = const IconData(0xF331, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData library_books = const IconData(0xF332, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData library_movie = const IconData(0xFCF4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData library_music = const IconData(0xF333, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData library_plus = const IconData(0xF334, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData library_shelves = const IconData(0xFB85, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData library_video = const IconData(0xFCF5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData lifebuoy = const IconData(0xF87D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3321,7 +4223,17 @@ class CommunityMaterialIcons{
 
   static const IconData link = const IconData(0xF337, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData link_box = const IconData(0xFCF6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData link_box_outline = const IconData(0xFCF7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData link_box_variant = const IconData(0xFCF8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData link_box_variant_outline = const IconData(0xFCF9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData link_off = const IconData(0xF338, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData link_plus = const IconData(0xFC70, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData link_variant = const IconData(0xF339, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3407,11 +4319,31 @@ class CommunityMaterialIcons{
 
   static const IconData mailbox = const IconData(0xF6ED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData mailbox_open = const IconData(0xFD64, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_open_outline = const IconData(0xFD65, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_open_up = const IconData(0xFD66, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_open_up_outline = const IconData(0xFD67, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_outline = const IconData(0xFD68, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_up = const IconData(0xFD69, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mailbox_up_outline = const IconData(0xFD6A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData map = const IconData(0xF34D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData map_clock = const IconData(0xFCFA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData map_clock_outline = const IconData(0xFCFB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData map_legend = const IconData(0xFA00, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData map_marker = const IconData(0xF34E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData map_marker_check = const IconData(0xFC71, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData map_marker_circle = const IconData(0xF34F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3424,6 +4356,8 @@ class CommunityMaterialIcons{
   static const IconData map_marker_off = const IconData(0xF351, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData map_marker_outline = const IconData(0xF7D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData map_marker_path = const IconData(0xFCFC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData map_marker_plus = const IconData(0xF651, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3439,11 +4373,15 @@ class CommunityMaterialIcons{
 
   static const IconData map_search_outline = const IconData(0xF984, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData mapbox = const IconData(0xFB86, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData margin = const IconData(0xF353, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData markdown = const IconData(0xF354, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData marker = const IconData(0xF652, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData marker_cancel = const IconData(0xFDB5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData marker_check = const IconData(0xF355, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3456,6 +4394,12 @@ class CommunityMaterialIcons{
   static const IconData material_ui = const IconData(0xF357, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData math_compass = const IconData(0xF358, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData math_cos = const IconData(0xFC72, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData math_sin = const IconData(0xFC73, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData math_tan = const IconData(0xFC74, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData matrix = const IconData(0xF628, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3480,6 +4424,8 @@ class CommunityMaterialIcons{
   static const IconData menu_left = const IconData(0xF35E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData menu_left_outline = const IconData(0xFA01, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData menu_open = const IconData(0xFB87, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData menu_right = const IconData(0xF35F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3557,9 +4503,13 @@ class CommunityMaterialIcons{
 
   static const IconData microsoft_dynamics = const IconData(0xF987, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData microwave = const IconData(0xFC75, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData midi = const IconData(0xF8F0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData midi_port = const IconData(0xF8F1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mine = const IconData(0xFDB6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData minecraft = const IconData(0xF373, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3579,11 +4529,17 @@ class CommunityMaterialIcons{
 
   static const IconData minus_network = const IconData(0xF378, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData minus_network_outline = const IconData(0xFC76, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData mixcloud = const IconData(0xF62A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mixed_martial_arts = const IconData(0xFD6B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData mixed_reality = const IconData(0xF87E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData mixer = const IconData(0xF7DC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData molecule = const IconData(0xFB88, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData monitor = const IconData(0xF379, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3593,9 +4549,19 @@ class CommunityMaterialIcons{
 
   static const IconData monitor_dashboard = const IconData(0xFA06, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData monitor_lock = const IconData(0xFDB7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData monitor_multiple = const IconData(0xF37A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData monitor_off = const IconData(0xFD6C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData monitor_star = const IconData(0xFDB8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData more = const IconData(0xF37B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData mother_nurse = const IconData(0xFCFD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData motion_sensor = const IconData(0xFD6D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData motorbike = const IconData(0xF37C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3614,6 +4580,8 @@ class CommunityMaterialIcons{
   static const IconData move_resize_variant = const IconData(0xF656, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData movie = const IconData(0xF381, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData movie_outline = const IconData(0xFDB9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData movie_roll = const IconData(0xF7DD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3649,6 +4617,8 @@ class CommunityMaterialIcons{
 
   static const IconData music_note_off = const IconData(0xF38A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData music_note_plus = const IconData(0xFDBA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData music_note_quarter = const IconData(0xF38B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData music_note_sixteenth = const IconData(0xF38C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3656,6 +4626,8 @@ class CommunityMaterialIcons{
   static const IconData music_note_whole = const IconData(0xF38D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData music_off = const IconData(0xF75A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData nail = const IconData(0xFDBB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData nas = const IconData(0xF8F2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3674,6 +4646,12 @@ class CommunityMaterialIcons{
   static const IconData netflix = const IconData(0xF745, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData network = const IconData(0xF6F2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData network_off = const IconData(0xFC77, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData network_off_outline = const IconData(0xFC78, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData network_outline = const IconData(0xFC79, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData network_strength_1 = const IconData(0xF8F3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3747,7 +4725,7 @@ class CommunityMaterialIcons{
 
   static const IconData numeric = const IconData(0xF3A0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_0 = const IconData(0xF30, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_0 = const IconData(0x0030, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_0_box = const IconData(0xF3A1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3755,7 +4733,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_0_box_outline = const IconData(0xF3A3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_1 = const IconData(0xF31, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_0_circle = const IconData(0xFC7A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_0_circle_outline = const IconData(0xFC7B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_1 = const IconData(0x0031, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_1_box = const IconData(0xF3A4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3763,7 +4745,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_1_box_outline = const IconData(0xF3A6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_2 = const IconData(0xF32, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_1_circle = const IconData(0xFC7C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_1_circle_outline = const IconData(0xFC7D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_2 = const IconData(0x0032, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_2_box = const IconData(0xF3A7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3771,7 +4757,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_2_box_outline = const IconData(0xF3A9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_3 = const IconData(0xF33, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_2_circle = const IconData(0xFC7E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_2_circle_outline = const IconData(0xFC7F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_3 = const IconData(0x0033, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_3_box = const IconData(0xF3AA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3779,7 +4769,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_3_box_outline = const IconData(0xF3AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_4 = const IconData(0xF34, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_3_circle = const IconData(0xFC80, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_3_circle_outline = const IconData(0xFC81, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_4 = const IconData(0x0034, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_4_box = const IconData(0xF3AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3787,7 +4781,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_4_box_outline = const IconData(0xF3AF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_5 = const IconData(0xF35, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_4_circle = const IconData(0xFC82, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_4_circle_outline = const IconData(0xFC83, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_5 = const IconData(0x0035, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_5_box = const IconData(0xF3B0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3795,7 +4793,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_5_box_outline = const IconData(0xF3B2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_6 = const IconData(0xF36, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_5_circle = const IconData(0xFC84, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_5_circle_outline = const IconData(0xFC85, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_6 = const IconData(0x0036, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_6_box = const IconData(0xF3B3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3803,7 +4805,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_6_box_outline = const IconData(0xF3B5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_7 = const IconData(0xF37, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_6_circle = const IconData(0xFC86, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_6_circle_outline = const IconData(0xFC87, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_7 = const IconData(0x0037, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_7_box = const IconData(0xF3B6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3811,7 +4817,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_7_box_outline = const IconData(0xF3B8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_8 = const IconData(0xF38, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_7_circle = const IconData(0xFC88, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_7_circle_outline = const IconData(0xFC89, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_8 = const IconData(0x0038, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_8_box = const IconData(0xF3B9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3819,7 +4829,11 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_8_box_outline = const IconData(0xF3BB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData numeric_9 = const IconData(0xF39, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData numeric_8_circle = const IconData(0xFC8A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_8_circle_outline = const IconData(0xFC8B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_9 = const IconData(0x0039, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_9_box = const IconData(0xF3BC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3827,17 +4841,27 @@ class CommunityMaterialIcons{
 
   static const IconData numeric_9_box_outline = const IconData(0xF3BE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData numeric_9_circle = const IconData(0xFC8C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_9_circle_outline = const IconData(0xFC8D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData numeric_9_plus_box = const IconData(0xF3BF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_9_plus_box_multiple_outline = const IconData(0xF3C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData numeric_9_plus_box_outline = const IconData(0xF3C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData numeric_9_plus_circle = const IconData(0xFC8E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData numeric_9_plus_circle_outline = const IconData(0xFC8F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData nut = const IconData(0xF6F7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData nutrition = const IconData(0xF3C2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData oar = const IconData(0xF67B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ocarina = const IconData(0xFDBC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData octagon = const IconData(0xF3C3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3859,6 +4883,8 @@ class CommunityMaterialIcons{
 
   static const IconData omega = const IconData(0xF3C9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData one_up = const IconData(0xFB89, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData onedrive = const IconData(0xF3CA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData onenote = const IconData(0xF746, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3870,6 +4896,8 @@ class CommunityMaterialIcons{
   static const IconData open_in_app = const IconData(0xF3CB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData open_in_new = const IconData(0xF3CC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData open_source_initiative = const IconData(0xFB8A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData openid = const IconData(0xF3CD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3883,7 +4911,11 @@ class CommunityMaterialIcons{
 
   static const IconData ornament_variant = const IconData(0xF3D0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData outlook = const IconData(0xFCFE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData owl = const IconData(0xF3D2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pac_man = const IconData(0xFB8B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData package = const IconData(0xF3D3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3909,11 +4941,43 @@ class CommunityMaterialIcons{
 
   static const IconData page_layout_sidebar_right = const IconData(0xF6FD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData page_next = const IconData(0xFB8C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData page_next_outline = const IconData(0xFB8D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData page_previous = const IconData(0xFB8E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData page_previous_outline = const IconData(0xFB8F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData palette = const IconData(0xF3D8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData palette_advanced = const IconData(0xF3D9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData palette_outline = const IconData(0xFDE8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData palette_swatch = const IconData(0xF8B4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan = const IconData(0xFB90, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_bottom_left = const IconData(0xFB91, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_bottom_right = const IconData(0xFB92, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_down = const IconData(0xFB93, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_horizontal = const IconData(0xFB94, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_left = const IconData(0xFB95, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_right = const IconData(0xFB96, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_top_left = const IconData(0xFB97, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_top_right = const IconData(0xFB98, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_up = const IconData(0xFB99, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pan_vertical = const IconData(0xFB9A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData panda = const IconData(0xF3DA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3933,9 +4997,15 @@ class CommunityMaterialIcons{
 
   static const IconData paperclip = const IconData(0xF3E2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData parachute = const IconData(0xFC90, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData parachute_outline = const IconData(0xFC91, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData parking = const IconData(0xF3E3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData passport = const IconData(0xF7E2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData passport_biometric = const IconData(0xFDBD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData patreon = const IconData(0xF881, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3959,6 +5029,16 @@ class CommunityMaterialIcons{
 
   static const IconData pen = const IconData(0xF3EA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData pen_lock = const IconData(0xFDBE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pen_minus = const IconData(0xFDBF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pen_off = const IconData(0xFDC0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pen_plus = const IconData(0xFDC1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pen_remove = const IconData(0xFDC2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData pencil = const IconData(0xF3EB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pencil_box = const IconData(0xF3EC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -3971,7 +5051,25 @@ class CommunityMaterialIcons{
 
   static const IconData pencil_lock = const IconData(0xF3EE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData pencil_lock_outline = const IconData(0xFDC3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_minus = const IconData(0xFDC4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_minus_outline = const IconData(0xFDC5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData pencil_off = const IconData(0xF3EF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_off_outline = const IconData(0xFDC6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_outline = const IconData(0xFC92, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_plus = const IconData(0xFDC7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_plus_outline = const IconData(0xFDC8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_remove = const IconData(0xFDC9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pencil_remove_outline = const IconData(0xFDCA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pentagon = const IconData(0xF6FF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -3984,6 +5082,10 @@ class CommunityMaterialIcons{
   static const IconData periodic_table_co2 = const IconData(0xF7E3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData periscope = const IconData(0xF747, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData perspective_less = const IconData(0xFCFF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData perspective_more = const IconData(0xFD00, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pharmacy = const IconData(0xF3F1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4009,7 +5111,11 @@ class CommunityMaterialIcons{
 
   static const IconData phone_missed = const IconData(0xF3FA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData phone_off = const IconData(0xFDCB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData phone_outgoing = const IconData(0xF3FB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData phone_outline = const IconData(0xFDCC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData phone_paused = const IconData(0xF3FC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4028,6 +5134,8 @@ class CommunityMaterialIcons{
   static const IconData pi = const IconData(0xF3FF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pi_box = const IconData(0xF400, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pi_hole = const IconData(0xFDCD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData piano = const IconData(0xF67C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4077,8 +5185,6 @@ class CommunityMaterialIcons{
 
   static const IconData pizza = const IconData(0xF409, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData plane_shield = const IconData(0xF6BA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
   static const IconData play = const IconData(0xF40A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData play_box_outline = const IconData(0xF40B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4088,6 +5194,8 @@ class CommunityMaterialIcons{
   static const IconData play_circle_outline = const IconData(0xF40D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData play_network = const IconData(0xF88A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData play_network_outline = const IconData(0xFC93, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData play_pause = const IconData(0xF40E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4101,11 +5209,17 @@ class CommunityMaterialIcons{
 
   static const IconData playlist_minus = const IconData(0xF410, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData playlist_music = const IconData(0xFC94, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData playlist_music_outline = const IconData(0xFC95, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData playlist_play = const IconData(0xF411, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData playlist_plus = const IconData(0xF412, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData playlist_remove = const IconData(0xF413, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData playlist_star = const IconData(0xFDCE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData playstation = const IconData(0xF414, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4129,6 +5243,8 @@ class CommunityMaterialIcons{
 
   static const IconData plus_network = const IconData(0xF41A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData plus_network_outline = const IconData(0xFC96, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData plus_one = const IconData(0xF41B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData plus_outline = const IconData(0xF704, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4136,6 +5252,16 @@ class CommunityMaterialIcons{
   static const IconData pocket = const IconData(0xF41C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData podcast = const IconData(0xF993, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData podium = const IconData(0xFD01, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData podium_bronze = const IconData(0xFD02, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData podium_gold = const IconData(0xFD03, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData podium_silver = const IconData(0xFD04, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData point_of_sale = const IconData(0xFD6E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pokeball = const IconData(0xF41D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4154,6 +5280,8 @@ class CommunityMaterialIcons{
   static const IconData pool = const IconData(0xF606, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData popcorn = const IconData(0xF422, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData postage_stamp = const IconData(0xFC97, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pot = const IconData(0xF65A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4215,6 +5343,8 @@ class CommunityMaterialIcons{
 
   static const IconData professional_hexagon = const IconData(0xF42D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData progress_alert = const IconData(0xFC98, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData progress_check = const IconData(0xF994, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData progress_clock = const IconData(0xF995, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4223,6 +5353,8 @@ class CommunityMaterialIcons{
 
   static const IconData progress_upload = const IconData(0xF997, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData progress_wrench = const IconData(0xFC99, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData projector = const IconData(0xF42E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData projector_screen = const IconData(0xF42F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4230,6 +5362,8 @@ class CommunityMaterialIcons{
   static const IconData publish = const IconData(0xF6A6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData pulse = const IconData(0xF430, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData pumpkin = const IconData(0xFB9B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData puzzle = const IconData(0xF431, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4255,7 +5389,13 @@ class CommunityMaterialIcons{
 
   static const IconData quicktime = const IconData(0xF436, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData quora = const IconData(0xFD05, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData rabbit = const IconData(0xF906, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData racing_helmet = const IconData(0xFD6F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData racquetball = const IconData(0xFD70, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData radar = const IconData(0xF437, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4267,6 +5407,10 @@ class CommunityMaterialIcons{
 
   static const IconData radio = const IconData(0xF439, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData radio_am = const IconData(0xFC9A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData radio_fm = const IconData(0xFC9B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData radio_handheld = const IconData(0xF43A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData radio_tower = const IconData(0xF43B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4277,7 +5421,11 @@ class CommunityMaterialIcons{
 
   static const IconData radiobox_marked = const IconData(0xF43E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData raspberrypi = const IconData(0xF43F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData radius = const IconData(0xFC9C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData radius_outline = const IconData(0xFC9D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData raspberry_pi = const IconData(0xF43F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ray_end = const IconData(0xF440, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4363,11 +5511,17 @@ class CommunityMaterialIcons{
 
   static const IconData restart = const IconData(0xF708, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData restart_off = const IconData(0xFD71, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData restore = const IconData(0xF99A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData restore_clock = const IconData(0xF6A7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rewind = const IconData(0xF45F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rewind_10 = const IconData(0xFD06, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rewind_30 = const IconData(0xFD72, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rewind_outline = const IconData(0xF709, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4399,13 +5553,23 @@ class CommunityMaterialIcons{
 
   static const IconData rocket = const IconData(0xF463, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData roller_skate = const IconData(0xFD07, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rollerblade = const IconData(0xFD08, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rollupjs = const IconData(0xFB9C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData room_service = const IconData(0xF88C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData room_service_outline = const IconData(0xFD73, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rotate_3d = const IconData(0xF464, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rotate_left = const IconData(0xF465, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rotate_left_variant = const IconData(0xF466, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rotate_orbit = const IconData(0xFD74, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData rotate_right = const IconData(0xF467, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4425,13 +5589,25 @@ class CommunityMaterialIcons{
 
   static const IconData rss_box = const IconData(0xF46C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData ruby = const IconData(0xFD09, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData rugby = const IconData(0xFD75, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData ruler = const IconData(0xF46D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ruler_square = const IconData(0xFC9E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData run = const IconData(0xF70D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData run_fast = const IconData(0xF46E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData sack = const IconData(0xFD0A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData sack_percent = const IconData(0xFD0B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData safe = const IconData(0xFA69, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData safety_goggles = const IconData(0xFD0C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData sale = const IconData(0xF46F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4467,15 +5643,33 @@ class CommunityMaterialIcons{
 
   static const IconData screen_rotation_lock = const IconData(0xF476, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData screw_flat_top = const IconData(0xFDCF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData screw_lag = const IconData(0xFDD0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData screw_machine_flat_top = const IconData(0xFDD1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData screw_machine_round_top = const IconData(0xFDD2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData screw_round_top = const IconData(0xFDD3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData screwdriver = const IconData(0xF477, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData script = const IconData(0xF478, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData script = const IconData(0xFB9D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData script_outline = const IconData(0xF478, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData script_text = const IconData(0xFB9E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData script_text_outline = const IconData(0xFB9F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData sd = const IconData(0xF479, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData seal = const IconData(0xF47A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData search_web = const IconData(0xF70E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData seat = const IconData(0xFC9F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData seat_flat = const IconData(0xF47B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4489,29 +5683,23 @@ class CommunityMaterialIcons{
 
   static const IconData seat_legroom_reduced = const IconData(0xF480, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData seat_outline = const IconData(0xFCA0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData seat_recline_extra = const IconData(0xF481, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData seat_recline_normal = const IconData(0xF482, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData seatbelt = const IconData(0xFCA1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData security = const IconData(0xF483, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData security_account = const IconData(0xF88E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData security_account_outline = const IconData(0xFA11, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData security_close = const IconData(0xF99B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData security_home = const IconData(0xF689, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData security_lock = const IconData(0xF99C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
   static const IconData security_network = const IconData(0xF484, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData security_off = const IconData(0xF99D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData select = const IconData(0xF485, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData select_all = const IconData(0xF486, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData select_color = const IconData(0xFD0D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData select_compare = const IconData(0xFAD8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4525,9 +5713,15 @@ class CommunityMaterialIcons{
 
   static const IconData selection_drag = const IconData(0xFA6C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData selection_ellipse = const IconData(0xFD0E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData selection_off = const IconData(0xF776, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData send = const IconData(0xF48A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData send_circle = const IconData(0xFDD4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData send_circle_outline = const IconData(0xFDD5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData send_lock = const IconData(0xF7EC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4595,9 +5789,47 @@ class CommunityMaterialIcons{
 
   static const IconData share_variant = const IconData(0xF497, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData sheep = const IconData(0xFCA2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData shield = const IconData(0xF498, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData shield_account = const IconData(0xF88E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_account_outline = const IconData(0xFA11, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_airplane = const IconData(0xF6BA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_airplane_outline = const IconData(0xFCA3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_check = const IconData(0xF565, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_check_outline = const IconData(0xFCA4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_cross = const IconData(0xFCA5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_cross_outline = const IconData(0xFCA6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData shield_half_full = const IconData(0xF77F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_home = const IconData(0xF689, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_home_outline = const IconData(0xFCA7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_key = const IconData(0xFBA0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_key_outline = const IconData(0xFBA1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_link_variant = const IconData(0xFD0F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_link_variant_outline = const IconData(0xFD10, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_lock = const IconData(0xF99C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_lock_outline = const IconData(0xFCA8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_off = const IconData(0xF99D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shield_off_outline = const IconData(0xF99B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData shield_outline = const IconData(0xF499, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4609,11 +5841,15 @@ class CommunityMaterialIcons{
 
   static const IconData shield_remove_outline = const IconData(0xFADC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData shield_search = const IconData(0xFD76, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData ship_wheel = const IconData(0xF832, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData shoe_formal = const IconData(0xFB22, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData shoe_heel = const IconData(0xFB23, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData shoe_print = const IconData(0xFDD6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData shopify = const IconData(0xFADD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4673,6 +5909,14 @@ class CommunityMaterialIcons{
 
   static const IconData signal_variant = const IconData(0xF60A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData signature = const IconData(0xFDD7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData signature_freehand = const IconData(0xFDD8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData signature_image = const IconData(0xFDD9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData signature_text = const IconData(0xFDDA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData silo = const IconData(0xFB24, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData silverware = const IconData(0xF4A3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4695,6 +5939,12 @@ class CommunityMaterialIcons{
 
   static const IconData sitemap = const IconData(0xF4AA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData skate = const IconData(0xFD11, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData skew_less = const IconData(0xFD12, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData skew_more = const IconData(0xFD13, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData skip_backward = const IconData(0xF4AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData skip_forward = const IconData(0xF4AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4713,6 +5963,12 @@ class CommunityMaterialIcons{
 
   static const IconData skull = const IconData(0xF68B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData skull_crossbones = const IconData(0xFBA2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData skull_crossbones_outline = const IconData(0xFBA3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData skull_outline = const IconData(0xFBA4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData skype = const IconData(0xF4AF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData skype_business = const IconData(0xF4B0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4724,6 +5980,10 @@ class CommunityMaterialIcons{
   static const IconData sleep = const IconData(0xF4B2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData sleep_off = const IconData(0xF4B3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData slope_downhill = const IconData(0xFDDB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData slope_uphill = const IconData(0xFDDC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData smog = const IconData(0xFA70, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4745,6 +6005,10 @@ class CommunityMaterialIcons{
 
   static const IconData sofa = const IconData(0xF4B9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData solar_panel = const IconData(0xFD77, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData solar_panel_large = const IconData(0xFD78, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData solar_power = const IconData(0xFA71, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData solid = const IconData(0xF68C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4760,6 +6024,10 @@ class CommunityMaterialIcons{
   static const IconData sort_numeric = const IconData(0xF4BE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData sort_variant = const IconData(0xF4BF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData sort_variant_lock = const IconData(0xFCA9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData sort_variant_lock_open = const IconData(0xFCAA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData soundcloud = const IconData(0xF4C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4785,11 +6053,23 @@ class CommunityMaterialIcons{
 
   static const IconData source_pull = const IconData(0xF4C2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData source_repository = const IconData(0xFCAB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData source_repository_multiple = const IconData(0xFCAC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData soy_sauce = const IconData(0xF7ED, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData spa = const IconData(0xFCAD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData spa_outline = const IconData(0xFCAE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData space_invaders = const IconData(0xFBA5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData speaker = const IconData(0xF4C3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData speaker_bluetooth = const IconData(0xF9A1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData speaker_multiple = const IconData(0xFD14, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData speaker_off = const IconData(0xF4C4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4798,6 +6078,8 @@ class CommunityMaterialIcons{
   static const IconData speedometer = const IconData(0xF4C5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData spellcheck = const IconData(0xF4C6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData spider_web = const IconData(0xFBA6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData spotify = const IconData(0xF4C7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4840,6 +6122,8 @@ class CommunityMaterialIcons{
   static const IconData stadium = const IconData(0xF71F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData stairs = const IconData(0xF4CD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData stamper = const IconData(0xFD15, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData standard_definition = const IconData(0xF7EE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -4917,6 +6201,8 @@ class CommunityMaterialIcons{
 
   static const IconData subway = const IconData(0xF6AB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData subway_alert_variant = const IconData(0xFD79, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData subway_variant = const IconData(0xF4DF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData summit = const IconData(0xF785, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4937,9 +6223,13 @@ class CommunityMaterialIcons{
 
   static const IconData swap_horizontal = const IconData(0xF4E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData swap_horizontal_bold = const IconData(0xFBA9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData swap_horizontal_variant = const IconData(0xF8C0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData swap_vertical = const IconData(0xF4E2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData swap_vertical_bold = const IconData(0xFBAA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData swap_vertical_variant = const IconData(0xF8C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5025,6 +6315,8 @@ class CommunityMaterialIcons{
 
   static const IconData tag_heart = const IconData(0xF68A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData tag_heart_outline = const IconData(0xFBAB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData tag_minus = const IconData(0xF90F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tag_multiple = const IconData(0xF4FB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5037,13 +6329,21 @@ class CommunityMaterialIcons{
 
   static const IconData tag_text_outline = const IconData(0xF4FD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData tank = const IconData(0xFD16, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData tape_measure = const IconData(0xFB28, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData target = const IconData(0xF4FE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData target_account = const IconData(0xFBAC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData target_variant = const IconData(0xFA76, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData taxi = const IconData(0xF4FF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tea = const IconData(0xFD7A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tea_outline = const IconData(0xFD7B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData teach = const IconData(0xF88F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5071,7 +6371,9 @@ class CommunityMaterialIcons{
 
   static const IconData temperature_kelvin = const IconData(0xF506, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData tennis = const IconData(0xF507, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData tennis = const IconData(0xFD7C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tennis_ball = const IconData(0xF507, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tent = const IconData(0xF508, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5107,7 +6409,17 @@ class CommunityMaterialIcons{
 
   static const IconData thermometer = const IconData(0xF50F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData thermometer_alert = const IconData(0xFDDD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData thermometer_chevron_down = const IconData(0xFDDE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData thermometer_chevron_up = const IconData(0xFDDF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData thermometer_lines = const IconData(0xF510, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData thermometer_minus = const IconData(0xFDE0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData thermometer_plus = const IconData(0xFDE1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData thermostat = const IconData(0xF393, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5143,6 +6455,14 @@ class CommunityMaterialIcons{
 
   static const IconData timelapse = const IconData(0xF51A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData timeline = const IconData(0xFBAD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData timeline_outline = const IconData(0xFBAE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData timeline_text = const IconData(0xFBAF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData timeline_text_outline = const IconData(0xFBB0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData timer = const IconData(0xF51B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData timer_10 = const IconData(0xF51C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5158,6 +6478,8 @@ class CommunityMaterialIcons{
   static const IconData timer_sand_full = const IconData(0xF78B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData timetable = const IconData(0xF520, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData toaster_oven = const IconData(0xFCAF, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData toggle_switch = const IconData(0xF521, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5175,21 +6497,31 @@ class CommunityMaterialIcons{
 
   static const IconData tooltip = const IconData(0xF523, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData tooltip_account = const IconData(0xF00C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData tooltip_edit = const IconData(0xF524, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tooltip_image = const IconData(0xF525, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData tooltip_image_outline = const IconData(0xFBB1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData tooltip_outline = const IconData(0xF526, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData tooltip_outline_plus = const IconData(0xF527, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData tooltip_plus = const IconData(0xFBB2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tooltip_plus_outline = const IconData(0xF527, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tooltip_text = const IconData(0xF528, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tooltip_text_outline = const IconData(0xFBB3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tooth = const IconData(0xF8C2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tooth_outline = const IconData(0xF529, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tor = const IconData(0xF52A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData tortoise = const IconData(0xFD17, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tournament = const IconData(0xF9AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5213,6 +6545,8 @@ class CommunityMaterialIcons{
 
   static const IconData train = const IconData(0xF52C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData train_car = const IconData(0xFBB4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData train_variant = const IconData(0xF8C3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData tram = const IconData(0xF52D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5221,7 +6555,17 @@ class CommunityMaterialIcons{
 
   static const IconData transcribe_close = const IconData(0xF52F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData transfer = const IconData(0xF530, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData transfer_down = const IconData(0xFD7D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transfer_left = const IconData(0xFD7E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transfer_right = const IconData(0xF530, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transfer_up = const IconData(0xFD7F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transit_connection = const IconData(0xFD18, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transit_connection_variant = const IconData(0xFD19, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData transit_transfer = const IconData(0xF6AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5230,6 +6574,10 @@ class CommunityMaterialIcons{
   static const IconData transition_masked = const IconData(0xF915, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData translate = const IconData(0xF5CA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData translate_off = const IconData(0xFDE2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData transmission_tower = const IconData(0xFD1A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData trash_can = const IconData(0xFA78, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5251,9 +6599,13 @@ class CommunityMaterialIcons{
 
   static const IconData triangle_outline = const IconData(0xF537, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData triforce = const IconData(0xFBB5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData trophy = const IconData(0xF538, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData trophy_award = const IconData(0xF539, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData trophy_broken = const IconData(0xFD80, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData trophy_outline = const IconData(0xF53A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5262,6 +6614,8 @@ class CommunityMaterialIcons{
   static const IconData trophy_variant_outline = const IconData(0xF53C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData truck = const IconData(0xF53D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData truck_check = const IconData(0xFCB0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData truck_delivery = const IconData(0xF53E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5289,6 +6643,12 @@ class CommunityMaterialIcons{
 
   static const IconData tune_vertical = const IconData(0xF66A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData turnstile = const IconData(0xFCB1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData turnstile_outline = const IconData(0xFCB2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData turtle = const IconData(0xFCB3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData twitch = const IconData(0xF543, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData twitter = const IconData(0xF544, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5302,6 +6662,8 @@ class CommunityMaterialIcons{
   static const IconData two_factor_authentication = const IconData(0xF9AE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData uber = const IconData(0xF748, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData ubisoft = const IconData(0xFBB6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData ubuntu = const IconData(0xF548, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5342,6 +6704,10 @@ class CommunityMaterialIcons{
   static const IconData upload_multiple = const IconData(0xF83C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData upload_network = const IconData(0xF6F5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData upload_network_outline = const IconData(0xFCB4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData upload_outline = const IconData(0xFDE3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData usb = const IconData(0xF553, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5399,11 +6765,11 @@ class CommunityMaterialIcons{
 
   static const IconData venmo = const IconData(0xF578, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData verified = const IconData(0xF565, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
   static const IconData vhs = const IconData(0xFA1A, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData vibrate = const IconData(0xF566, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData vibrate_off = const IconData(0xFCB5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData video = const IconData(0xF567, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5426,6 +6792,10 @@ class CommunityMaterialIcons{
   static const IconData video_minus = const IconData(0xF9B1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData video_off = const IconData(0xF568, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData video_off_outline = const IconData(0xFBB7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData video_outline = const IconData(0xFBB8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData video_plus = const IconData(0xF9B2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5464,6 +6834,10 @@ class CommunityMaterialIcons{
   static const IconData view_quilt = const IconData(0xF574, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData view_sequential = const IconData(0xF728, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData view_split_horizontal = const IconData(0xFBA7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData view_split_vertical = const IconData(0xFBA8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData view_stream = const IconData(0xF575, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5507,6 +6881,8 @@ class CommunityMaterialIcons{
 
   static const IconData volume_plus = const IconData(0xF75C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData volume_variant_off = const IconData(0xFDE4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData vote = const IconData(0xFA1E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData vote_outline = const IconData(0xFA1F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5531,7 +6907,11 @@ class CommunityMaterialIcons{
 
   static const IconData wallet_membership = const IconData(0xF586, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData wallet_outline = const IconData(0xFBB9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData wallet_travel = const IconData(0xF587, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData wallpaper = const IconData(0xFDE5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData wan = const IconData(0xF588, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5551,9 +6931,13 @@ class CommunityMaterialIcons{
 
   static const IconData watch_vibrate = const IconData(0xF6B0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData watch_vibrate_off = const IconData(0xFCB6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData water = const IconData(0xF58C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData water_off = const IconData(0xF58D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData water_outline = const IconData(0xFDE6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData water_percent = const IconData(0xF58E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5562,6 +6946,8 @@ class CommunityMaterialIcons{
   static const IconData watermark = const IconData(0xF612, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData waves = const IconData(0xF78C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData waze = const IconData(0xFBBA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData weather_cloudy = const IconData(0xF590, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5611,6 +6997,8 @@ class CommunityMaterialIcons{
 
   static const IconData weight = const IconData(0xF5A1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData weight_gram = const IconData(0xFD1B, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData weight_kilogram = const IconData(0xF5A2, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData weight_pound = const IconData(0xF9B4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5634,6 +7022,8 @@ class CommunityMaterialIcons{
   static const IconData wifi = const IconData(0xF5A9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData wifi_off = const IconData(0xF5AA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData wifi_star = const IconData(0xFDE7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData wifi_strength_1 = const IconData(0xF91E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5675,6 +7065,8 @@ class CommunityMaterialIcons{
 
   static const IconData wikipedia = const IconData(0xF5AC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData wind_turbine = const IconData(0xFD81, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData window_close = const IconData(0xF5AD, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData window_closed = const IconData(0xF5AE, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -5693,13 +7085,19 @@ class CommunityMaterialIcons{
 
   static const IconData wiper = const IconData(0xFAE8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData wiper_wash = const IconData(0xFD82, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData wordpress = const IconData(0xF5B4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData worker = const IconData(0xF5B5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData wrap = const IconData(0xF5B6, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData wrap_disabled = const IconData(0xFBBB, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData wrench = const IconData(0xF5B7, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData wrench_outline = const IconData(0xFBBC, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData wunderlist = const IconData(0xF5B8, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5757,11 +7155,15 @@ class CommunityMaterialIcons{
 
   static const IconData youtube_gaming = const IconData(0xF847, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
+  static const IconData youtube_subscription = const IconData(0xFD1C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
   static const IconData youtube_tv = const IconData(0xF448, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData z_wave = const IconData(0xFAE9, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData zend = const IconData(0xFAEA, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+
+  static const IconData zigbee = const IconData(0xFD1D, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData zip_box = const IconData(0xF5C4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
@@ -5790,7 +7192,5 @@ class CommunityMaterialIcons{
   static const IconData zodiac_taurus = const IconData(0xFA86, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
   static const IconData zodiac_virgo = const IconData(0xFA87, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-
-  static const IconData blank = const IconData(0xF68C, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 }
 
