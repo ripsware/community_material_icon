@@ -7591,6 +7591,6 @@ class CommunityMaterialIcons{
 
   static const IconData zodiac_taurus = const IconData(0xFA86, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 
-  static const IconData zodiac_virgo = const IconData(0xFA87
+  static const IconData zodiac_virgo = const IconData(0xFA87, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
 }
 
