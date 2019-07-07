@@ -5,7 +5,7 @@ author: rio permana <rio.prmn@gmail.com>
 homepage: https://github.com/ripsware/community_material_icon
 
 environment:
-  sdk: '>=1.19.0 <3.0.0'
+  sdk: '>=2.1.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -15,4 +15,4 @@ flutter:
   fonts:
     - family: MaterialDesignIconFont
       fonts:
-        - asset: packages/community_material_icon/fonts/materialdesignicons-webfont.ttf
+        - asset: lib/fonts/materialdesignicons-webfont.ttf
