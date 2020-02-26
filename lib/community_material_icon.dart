@@ -3322,7 +3322,7 @@ class CommunityMaterialIcons{
   static const IconData npm_variant = const IconData(0xF98E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData npm_variant_outline = const IconData(0xF98F, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData nuke = const IconData(0xF6A3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-  static const IconData null = const IconData(0xF7E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData null_icon = const IconData(0xF7E1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData numeric = const IconData(0xF3A0, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData numeric_0 = const IconData(0x30, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData numeric_0_box = const IconData(0xF3A1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
@@ -4360,7 +4360,7 @@ class CommunityMaterialIcons{
   static const IconData swap_vertical_circle_outline = const IconData(0xF0005, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData swap_vertical_variant = const IconData(0xF8C1, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData swim = const IconData(0xF4E3, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
-  static const IconData switch = const IconData(0xF4E4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
+  static const IconData switch_icon = const IconData(0xF4E4, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData sword = const IconData(0xF4E5, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData sword_cross = const IconData(0xF786, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
   static const IconData syllabary_hangul = const IconData(0xF035E, fontFamily: 'MaterialDesignIconFont', fontPackage: 'community_material_icon');
