@@ -17,10 +17,12 @@ import 'package:community_material_icon/community_material_icon.dart';
 
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
-    return new IconButton(
-      icon: new Icon(CommunityMaterialIcons.alarm),
-      onPressed: () { print("Pressed"); }
-     );
+    return IconButton(
+      icon: Icon(CommunityMaterialIcons.alarm),
+      onPressed: () {
+        print('Pressed');
+      }
+    );
   }
 }
 ```
