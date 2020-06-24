@@ -7,7 +7,7 @@ A [community material design icon](https://materialdesignicons.com) as set of Fl
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  community_material_icon: 5.3.45
+  community_material_icon: ^5.3.45
 ```
 
 ## Usage
@@ -17,10 +17,12 @@ import 'package:community_material_icon/community_material_icon.dart';
 
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
-    return new IconButton(
-      icon: new Icon(CommunityMaterialIcons.alarm),
-      onPressed: () { print("Pressed"); }
-     );
+    return IconButton(
+      icon: Icon(CommunityMaterialIcons.alarm),
+      onPressed: () {
+        print('Pressed');
+      }
+    );
   }
 }
 ```
