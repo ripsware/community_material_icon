@@ -1,16 +1,28 @@
-# community_material_icon_example
+# community_material_icon
 
-A new Flutter project.
+A [community material design icon](https://materialdesignicons.com) as set of Flutter Icons
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
-A few resources to get you started if this is your first Flutter project:
+```yaml
+  community_material_icon: ^5.4.55
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Usage
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+import 'package:community_material_icon/community_material_icon.dart';
+
+class MyWidget extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: Icon(CommunityMaterialIcons.alarm),
+      onPressed: () {
+        print('Pressed');
+      }
+    );
+  }
+}
+```
