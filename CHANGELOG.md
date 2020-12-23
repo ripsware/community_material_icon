@@ -5,3 +5,8 @@
 ## [5.4.55] - 06 sep 2020.
 
 - update community material icon to version 5.4.55
+
+## [5.8.55] - 23 dec 2020
+
+- update community material icon to version 5.8.55
+- reformat code using `dartfmt`
