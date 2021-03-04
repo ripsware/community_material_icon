@@ -1,10 +1,10 @@
 name: community_material_icon
 description: A community material design icon flutter packages based on https://materialdesignicons.com/
-version: 5.8.55
+version: 5.8.55-null-safe
 homepage: https://github.com/ripsware/community_material_icon
 
 environment:
-  sdk: '>=1.19.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
