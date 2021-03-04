@@ -10,3 +10,7 @@
 
 - update community material icon to version 5.8.55
 - reformat code using `dartfmt`
+
+## [5.8.55-null-safe] - 04 mar 2021
+
+- update to null-safe
