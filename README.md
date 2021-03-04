@@ -2,14 +2,6 @@
 
 A [community material design icon](https://materialdesignicons.com) as set of Flutter Icons
 
-## Installation
-
-In the `dependencies:` section of your `pubspec.yaml`, add the following line:
-
-```yaml
-  community_material_icon: ^5.8.55-null-safe
-```
-
 ## Usage
 
 ```dart

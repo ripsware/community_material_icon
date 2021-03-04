@@ -14,3 +14,7 @@
 ## [5.8.55-null-safe] - 04 mar 2021
 
 - update to null-safe
+
+## [5.9.55] - 04 mar 2021
+
+- update community material icon to version 5.9.55

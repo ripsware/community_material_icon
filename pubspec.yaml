@@ -1,6 +1,6 @@
 name: community_material_icon
 description: A community material design icon flutter packages based on https://materialdesignicons.com/
-version: 5.8.55-null-safe
+version: 5.9.55
 homepage: https://github.com/ripsware/community_material_icon
 
 environment:
